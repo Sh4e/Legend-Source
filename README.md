@@ -9,7 +9,9 @@ LEGEND README.IML
  of making it easier for newfags to get a client for B1.7.3    
  since salc1 made a review on the anarchy server             
  "2Beta2t.net:27015".                                        
-                                                             
+ 
+ NOTE : YES WE KNOW THIS IS A PASTE COPE ABOUT IT
+ 
  Use :                                                       
  - For use you can export it                                 
        * https://youtu.be/nlZKdifpoUA                        
@@ -23,11 +25,11 @@ LEGEND README.IML
  - Since this client is a paste you can credit who ever      
    you think deserves it                                     
                                                              
-       * Shxe / Sh4e ( Dev of Legend )                       
+       * Shae / k6w - Developer                      
                                                              
-       * percolating ( Currect owner )                       
+       * percolating - Co-owner                      
                                                              
-       * GameHerobrin ( Alias Remasted )                     
+       * GameHerobrin - Alias remastered (yes this is a paste cope more)                 
                                                              
        * Original Alias dev(s) (yes this is a paste cope more)                              
                                                              
