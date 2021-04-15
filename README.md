@@ -1,7 +1,7 @@
 LEGEND README.IML
 
 [![discord](https://img.shields.io/badge/Discord-Legend-8080c0)](https://discord.gg/mvyBt5GkJX)
-![version](https://img.shields.io/badge/Release-1.0.0-green.svg)]
+![version](https://img.shields.io/badge/Release-1.0.0-green.svg)
 ![minecraft](https://img.shields.io/badge/Minecraft-b1.7.3-blue.svg)
                                                              
  this client was developed by Sh4e and this is the        
