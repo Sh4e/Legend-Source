@@ -29,7 +29,7 @@ LEGEND README.IML
                                                              
        * percolating - Co-owner                      
                                                              
-       * GameHerobrin - Alias remastered (yes this is a paste cope more)                 
+       * GameHerobrine - Alias remastered (yes this is a paste cope more)                 
                                                              
        * Original Alias dev(s) (yes this is a paste cope more)                              
                                                              
