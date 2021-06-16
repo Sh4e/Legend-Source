@@ -1,4 +1,4 @@
-LEGEND README.IML
+LEGEND README.MD
 
 [![discord](https://img.shields.io/badge/Discord-Legend-8080c0)](https://discord.gg/mvyBt5GkJX)
 ![version](https://img.shields.io/badge/Release-1.0.0-green.svg)
