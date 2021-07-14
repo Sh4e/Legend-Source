@@ -29,9 +29,9 @@ LEGEND README.MD
                                                              
        * percolating - Co-owner                      
                                                              
-       * GameHerobrin - Alias remastered (yes this is a paste cope more)                 
+       * GameHerobrine - Alias Remastered (yes this is a paste, cope more)
                                                              
-       * Original Alias dev(s) (yes this is a paste cope more)                              
+       * Original Alias dev(s) (yes this is a paste, cope more)                              
                                                              
                                                              
  Contact :                                                   
